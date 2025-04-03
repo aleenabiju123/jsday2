@@ -1,0 +1,66 @@
+/* Apply background color and padding to the body */
+body {
+    background-image: url(/strategic-planning-for-success-through-people-business-development-concept-by-choosing-professional-leaders-employee-competency-businessman-holding-magnifying-glass-hrm-or-human-resource-management-photo.jpg);
+    background-repeat: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #b7a6be;
+    padding: 30px 0;
+}
+
+/* Center the heading */
+h1 {
+    color: #ffffff;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+/* Style the department filter dropdown */
+label {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #343a40;
+}
+
+/* Dropdown styling */
+select {
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+/* Style the employee list */
+ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Each employee list item styling */
+li {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 1.1rem;
+    color: #555;
+}
+
+/* On hover, give a nice hover effect to the employee list items */
+li:hover {
+    background-color: #d4b6b6;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Make sure the content stays centered */
+.container {
+    text-align: center;
+}
+
+
